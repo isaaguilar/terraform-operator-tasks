@@ -3,7 +3,7 @@ name: Build the script-amd64 image
 on:
   push:
     branches:
-    - test
+    - master
 
 jobs:
   release:
